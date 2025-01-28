@@ -44,8 +44,6 @@ function TaskCard({ task, onEdit, onDelete }) {
         </div>
     );
 }
-
-
 const styles = {
     card: {
         padding: "10px 6px",
