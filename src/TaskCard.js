@@ -45,7 +45,6 @@ function TaskCard({ task, onEdit, onDelete }) {
     );
 }
 
-// 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
 
 const styles = {
     card: {
